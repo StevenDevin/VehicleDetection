@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vehicle Detection Web
 
 ## Backend (FastAPI)
@@ -8,3 +9,7 @@
 ## Frontend (HTML)
 - Buka file `index.html` di browser.
 - Upload gambar/video, klik "Start Detection", hasil akan muncul di bawahnya.
+=======
+# VehicleDetection
+Vehicle detection using YOLOv8
+>>>>>>> 42ef1f09f96565e2bdc08a32a4efd61c17d36269
