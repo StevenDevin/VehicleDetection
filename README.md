@@ -1,7 +1,7 @@
 # VehicleDetection
 Vehicle detection using YOLOv8
 
-## Backend (FastAPI)
+## Backend (FastAPI - Uvicorn)
 - Install dependencies: pip install -r requirements.txt
 - Jalankan backend: python -m uvicorn app:app --reload
 
